@@ -1,5 +1,11 @@
 # Customer-Lifetime-Value-and-Transaction-Metrics-Analysis
-This is an analysis of customer lifetime value (CLV) and various transaction metrics for a fictional card processing company. The analysis aims to guide sales and marketing strategies by identifying key customer segments and understanding transaction behaviors.
+This is an analysis of customer lifetime value (CLV) and various transaction metrics for a card processing company. The analysis aims to guide sales and marketing strategies by identifying key customer segments and understanding transaction behaviors. 
+
+## Data Sources
+The analysis utilizes two main datasets:
+
+1) Businesses Data (businesses.csv) - This contains information about merchants, including their industry and other attributes.
+2) Transactions Data (transactions.csv) - This includes transaction-level details such as transaction approval status, processing time, and transaction type (credit card and others).
 
 ## Resources
 Data Manipulation: Pandas, Numpy.
