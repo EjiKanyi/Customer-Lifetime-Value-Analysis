@@ -9,7 +9,9 @@ The analysis utilizes two main datasets:
 
 ## Resources
 Data Manipulation: Pandas, Numpy.
+
 Data Visualization: Matplotlib, Seaborn
+
 Modeling: RandomForest Regressor, GridSearchCV
 
 ## EDA
